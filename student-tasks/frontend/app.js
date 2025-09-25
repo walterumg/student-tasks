@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000";
+const API_URL = "https://student-tasks-3.onrender.com";
 let currentUser = null;
 
 async function register() {
